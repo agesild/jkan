@@ -19,8 +19,8 @@ update_freq: ''
 date_issued: 2017/12/08
 date_modified: 2019/03/13
 organization: Maa-amet
-maintainer_name: Tanel Hurt
-maintainer_email: Tanel.Hurt@maaamet.ee
+maintainer_name: 
+maintainer_email: avaandmed@maaamet.ee
 maintainer_phone: ''
 
 ---
